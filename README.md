@@ -5,7 +5,7 @@ This is the official Homebrew tap for [git-health-checker](https://github.com/se
 ## Installation
 
 ```bash
-brew tap seanhalberthal/git-health-checker
+brew tap seanhalberthal/githealthchecker
 brew install git-health-checker
 ```
 
