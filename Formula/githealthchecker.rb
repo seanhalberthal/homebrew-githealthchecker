@@ -1,14 +1,14 @@
 class Githealthchecker < Formula
   desc "Comprehensive CLI tool to analyze Git repositories for security, performance, and quality issues"
   homepage "https://github.com/seanhalberthal/githealthchecker"
-  url "https://github.com/seanhalberthal/githealthchecker/releases/download/v1.0.5/githealthchecker-v1.0.5-darwin-amd64.tar.gz"
-  version "1.0.5"
-  sha256 "2f4d67e88158d67aba01d63f83f0066f397e6a48122c1e1339617298a9f5bf2c"
+  url "https://github.com/seanhalberthal/githealthchecker/releases/download/v1.0.6/githealthchecker-v1.0.6-darwin-amd64.tar.gz"
+  version "1.0.6"
+  sha256 "8a49b97af93b4976d15c001229e8f88ff503e1fef87e89e572a43a45f43e0d91"
   license "MIT"
 
   on_linux do
-    url "https://github.com/seanhalberthal/githealthchecker/releases/download/v1.0.5/githealthchecker-v1.0.5-linux-amd64.tar.gz"
-    sha256 "4eb4ee1c7f08ccb40dee7091c6b96a4361e37739afd31d67a52e967cd936cf2f"
+    url "https://github.com/seanhalberthal/githealthchecker/releases/download/v1.0.6/githealthchecker-v1.0.6-linux-amd64.tar.gz"
+    sha256 "420bf4763935ffe0b664c0c63f75d05ffb64d2d91bc6930e573f3cece7482f54"
   end
 
   def install
